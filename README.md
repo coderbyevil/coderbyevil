@@ -20,6 +20,7 @@
 [![API](https://img.shields.io/badge/API_Documentation-0D1117?style=for-the-badge&logo=swagger&logoColor=22D3EE)](https://evilmail.pro/api-docs)
 [![Chrome](https://img.shields.io/badge/Chrome_Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/Evil-Mail/evilmail-chrome)
 [![Firefox](https://img.shields.io/badge/Firefox_Add--on-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://github.com/Evil-Mail/evilmail-firefox)
+[![Android](https://img.shields.io/badge/Android_App-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Evil-Mail/evilmail-mobile)
 
 <br>
 
@@ -53,22 +54,17 @@ A complete email infrastructure — temp emails, custom domains, DNS management,
 </td>
 <td width="50%" valign="top">
 
-### Browser Extensions
+### Extensions & Mobile App
 
-**Chrome** — Generate disposable emails in one click, real-time notifications, custom domain support.
+**Chrome** — Disposable emails in one click, real-time notifications, custom domain support.
 
 **Firefox** — Same features, native Firefox add-on.
 
+**Android** — Full-featured mobile app with real-time inbox, OTP detection, custom domains & session management.
+
 <a href="https://github.com/Evil-Mail/evilmail-chrome"><img src="https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 <a href="https://github.com/Evil-Mail/evilmail-firefox"><img src="https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white" /></a>
-
-<br>
-
-**Extension Features:**
-- Auto-copy & badge notifications
-- Sound alerts & quick notes
-- 12 languages · Dark/Light theme
-- API Key integration
+<a href="https://github.com/Evil-Mail/evilmail-mobile"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" /></a>
 
 </td>
 </tr>
